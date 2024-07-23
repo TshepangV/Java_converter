@@ -48,5 +48,7 @@ The program will display the converted result.
 Suppose you choose option 2 (Pounds to Kilograms) and input 150. The program will output:
 
 150.00 Pounds = 68.04 Kilograms
+![Screenshot (13)](https://github.com/user-attachments/assets/50caa94a-cae2-4b97-a331-c8e62c5578b6)
+![Screenshot (12)](https://github.com/user-attachments/assets/39bfafa4-0cde-4958-b916-a66e14cca00d)
 
 
