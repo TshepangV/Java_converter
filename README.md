@@ -15,24 +15,25 @@ Make sure you have Java installed on your system. You can download Java from jav
 ## Installation
 Clone the repository to your local machine:
 
-## bash
+1.bash
 git clone https://github.com/your-username/unit-converter.git
 Navigate into the project directory:
 
-## bash
+2.bash
 cd unit-converter
 Compile the Java files:
 
-## bash
+3.bash
 javac converter/Converter.java
-Usage
+
+## Usage
 Run the program:
 
-## bash
+ bash
 java converter.Converter
 You will see a menu displaying available conversions:
 
-## Welcome to Unit Converter!
+Welcome to Unit Converter!
 Available conversions:
 1. Feet to Meters
 2. Pounds to Kilograms
